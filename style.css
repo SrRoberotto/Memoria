@@ -10,6 +10,10 @@ body {
     background-color: rgb(188, 248, 228);
 }
 
+.p1 .p2 .jogador{
+    display:flex;
+}
+
 .memory-game {
     height: 640px;
     width: 640px;
