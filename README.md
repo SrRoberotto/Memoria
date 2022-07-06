@@ -10,5 +10,5 @@ Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo 
 
 ### Melhorias
 * [x] Embaralhar cartas
-* [] Score
-* [] Indicar Player atual
+* [ ] Score
+* [ ] Indicar Player atual
