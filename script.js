@@ -8,6 +8,8 @@ let lockBoard = false;
 let atual = 0;
 let score = [0, 0];
 
+shuffleCards();
+
 //função para virar carta
 function flipCard() {
     if(lockBoard) return;
